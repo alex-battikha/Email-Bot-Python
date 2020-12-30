@@ -1,4 +1,3 @@
-import os
 import smtplib
 import imghdr
 from email.message import EmailMessage
